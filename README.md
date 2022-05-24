@@ -1,7 +1,8 @@
 Olá, 👋 Meu nome é Robert Rodrigues Martins
 =========================================
 
-\- Web developer fullstack
+\- Estudante Web developer
+\- Meta: Desenvolvedor Backend :)
 --------------------------
 
 Eu comecei minha jornada na área de tecnologia em julho de 2021
