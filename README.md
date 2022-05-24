@@ -1,4 +1,4 @@
-Olá, 👋 Meu nome é Robert Rodrigues Martins
+Olá, Meu nome é Robert Rodrigues Martins
 =========================================
 
 \- Estudante Web developer
