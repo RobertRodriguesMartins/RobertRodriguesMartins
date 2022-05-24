@@ -26,6 +26,8 @@ Tenho conhecimentos em Docker para subir a aplicação em qualquer ambiente. #lo
 Trabalho sempre TENTANDO respeitar os princípios SOLID, pois sempre busco criar algo escalável
 no limite do meu conhecimento é claro. :)
 
+PS.: Estou aberto a feedbacks.
+
 Pontos a melhorar:
   - Consigo realizar testes com O JEST, MOCHA, CHAI E SINON, mas ainda não é algo notável.
   - Meu nível de typescript ainda é novato.
