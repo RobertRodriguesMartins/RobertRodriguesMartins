@@ -1,14 +1,30 @@
-Hi 👋 My name is Robert Rodrigues Martins
+Olá, 👋 Meu nome é Robert Rodrigues Martins
 =========================================
 
 \- Web developer fullstack
 --------------------------
 
-Eu comecei minha jornada na área de tecnologia em julho de 2021 Começando com HTML básico, git e github e javascript. Depois comecei a aprender React (frontend), uma ferramenta para facilitar o desenvolvimento de aplicações web junto ao Redux (um gerenciador de estado da aplicação) E atualmente estou focado no desenvolvimento backend, com o framework Express. Tenho conhecimento em banco de dados, querys SQL, utilizo o Mysql em meus projetos (banco de dados relacional) :) Ah, tenho conhecimento em ORM também, em meus projetos uso Sequelize . Ultima atualização: maio, 24, 2022.
+Eu comecei minha jornada na área de tecnologia em julho de 2021
+
+Começando com HTML básico, git e github e javascript. 
+
+Depois comecei a aprender React (frontend), uma ferramenta para facilitar o desenvolvimento de aplicações web junto ao Redux (um gerenciador de estado da aplicação)
+
+E atualmente estou focado no desenvolvimento backend, com o framework Express.
+
+Tenho conhecimento em banco de dados, querys SQL, utilizo o Mysql em meus projetos (banco de dados relacional) :)
+
+Ah, tenho conhecimento em ORM também, em meus projetos uso Sequelize. 
+
+Consigo realizar teste com O JEST, MOCHA, CHAI E SINON.
+
+Ultima atualização: maio, 24, 2022.
 
 *   🌍  Brasil
 *   ✉️  You can contact me at [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
-*   🧠  I'm learning typescript### Skills<p align="left">
+*   🧠  Estou aprendendo typescript, e aprimorando os conhecimentos em testes.
+
+Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
