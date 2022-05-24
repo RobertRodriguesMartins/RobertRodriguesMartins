@@ -1,45 +1,54 @@
 Olá, Meu nome é Robert Rodrigues Martins
 =========================================
 
+- Bem vindo ao meu Github
+
 \- Estudante Web developer
 \- Meta: Desenvolvedor Backend :)
 --------------------------
 
---- FRASE DE EFEITO: Pessoas > Tecnologia
+--- **FRASE DE EFEITO**: Pessoas > Tecnologia
 
 Eu comecei minha jornada na área de tecnologia em julho de 2021
 
 Sou apaixonado e curioso a respeito de como tudo funciona.
 
-Primeiros Passos:  HTML básico, Git, Github e Javascript. 
+**Primeiros Passos:**  ***HTML básico, Git, Github e Javascript***. 
 
-Segundo Passo: comecei a aprender React, uma ferramenta para facilitar o desenvolvimento de aplicações web (Rosto da página) junto ao Redux (um gerenciador de estados da aplicação)
+**Segundo Passo:** Comecei a aprender ***React***,
 
-Atualmente estou focado no desenvolvimento backend, com o framework Express.
+uma ferramenta para facilitar o desenvolvimento de aplicações web (Rosto da página)
 
-Tenho conhecimento em banco de dados, querys SQL, utilizo o Mysql em meus projetos (banco de dados relacional) :)
+junto ao ***Redux*** (um gerenciador de estados da aplicação).
 
-Ah, tenho conhecimento em ORM também, em meus projetos uso Sequelize para criar e popular o banco. 
+**Atualmente:** Estou focado no desenvolvimento backend, com o framework ***Express***.
 
-Tenho conhecimentos em Docker para subir a aplicação em qualquer ambiente. #loveDocker
+Tenho conhecimento em **banco de dados**, querys SQL
 
-Trabalho sempre TENTANDO respeitar os princípios SOLID, pois sempre busco criar algo escalável
+utilizo o ***Mysql*** em meus projetos (banco de dados relacional) :)
+
+Ah, tenho conhecimento em ***ORM*** também, em meus projetos uso ***Sequelize*** para criar e popular o banco. 
+
+Tenho conhecimentos em ***Docker*** para subir a aplicação em qualquer ambiente. #loveDocker
+
+Trabalho sempre TENTANDO respeitar os princípios ***SOLID***, pois sempre busco criar algo escalável
 no limite do meu conhecimento é claro. :)
 
 PS.: Estou aberto a feedbacks.
 
-Pontos a melhorar:
-  - Consigo realizar testes com O JEST, MOCHA, CHAI E SINON, mas ainda não é algo notável.
-  - Meu nível de typescript ainda é novato.
-  - Tenho um conhecimento muito pequeno ainda sobre CI/CD.
-  - Minha organização pessoal ainda não é satisfatória.
+**Pontos a melhorar:**
+  - Consigo realizar testes com O ***JEST, MOCHA, CHAI E SINON*** mas ainda não é algo notável.
+  - Meu nível de ***Typescript*** ainda é novato.
+  - Tenho um conhecimento muito pequeno ainda sobre ***CI/CD***.
+  - Minha **organização pessoal** ainda não é satisfatória.
+  - Melhorar meu conhecimento a respeito da **acessibilidade** em um software
 
 Ultima atualização: Maio, dia 24 de 2022.
 
 *   🌍  Brasil
-*   ✉️  Se quiser me conhecer melhor mande um EMAIL: [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
+*   ✉️  Se quiser me conhecer melhor mande um ***EMAIL***: [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
 *   🧠  Estou aprendendo typescript, e aprimorando os conhecimentos em todos os outros frameworks.
-*   Próximo conhecimento no radar: MongoDb
+*   Próximo conhecimento no radar: ***MongoDb***
 
 ### Habilidades
 
