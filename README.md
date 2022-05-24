@@ -5,25 +5,40 @@ Olá, 👋 Meu nome é Robert Rodrigues Martins
 \- Meta: Desenvolvedor Backend :)
 --------------------------
 
+--- FRASE DE EFEITO: Pessoas > Tecnologia
+
 Eu comecei minha jornada na área de tecnologia em julho de 2021
 
-Começando com HTML básico, git e github e javascript. 
+Sou apaixonado e curioso a respeito de como tudo funciona.
 
-Depois comecei a aprender React (frontend), uma ferramenta para facilitar o desenvolvimento de aplicações web junto ao Redux (um gerenciador de estado da aplicação)
+Primeiros Passos:  HTML básico, Git, Github e Javascript. 
 
-E atualmente estou focado no desenvolvimento backend, com o framework Express.
+Segundo Passo: comecei a aprender React, uma ferramenta para facilitar o desenvolvimento de aplicações web (Rosto da página) junto ao Redux (um gerenciador de estados da aplicação)
+
+Atualmente estou focado no desenvolvimento backend, com o framework Express.
 
 Tenho conhecimento em banco de dados, querys SQL, utilizo o Mysql em meus projetos (banco de dados relacional) :)
 
-Ah, tenho conhecimento em ORM também, em meus projetos uso Sequelize. 
+Ah, tenho conhecimento em ORM também, em meus projetos uso Sequelize para criar e popular o banco. 
 
-Consigo realizar testes com O JEST, MOCHA, CHAI E SINON.
+Tenho conhecimentos em Docker para subir a aplicação em qualquer ambiente. #loveDocker
+
+e sei fazer DEPLOY no heroku.
+
+Tenho conhecimentos dos princípios SOLID :)
+
+Pontos a melhorar:
+  - Consigo realizar testes com O JEST, MOCHA, CHAI E SINON, mas ainda não é algo notável.
+  - Meu nível de typescript ainda é novato.
+  - Tenho um conhecimento muito pequeno ainda sobre CI/CD.
+  - Minha organização pessoal ainda não é satisfatória.
 
 Ultima atualização: Maio, dia 24 de 2022.
 
 *   🌍  Brasil
 *   ✉️  Você pode me contactar via email: [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
 *   🧠  Estou aprendendo typescript, e aprimorando os conhecimentos em todos os outros frameworks.
+*   Próximo conhecimento no radar: MongoDb
 
 ### Habilidades
 
