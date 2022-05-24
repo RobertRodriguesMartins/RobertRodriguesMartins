@@ -23,9 +23,8 @@ Ah, tenho conhecimento em ORM também, em meus projetos uso Sequelize para criar
 
 Tenho conhecimentos em Docker para subir a aplicação em qualquer ambiente. #loveDocker
 
-e sei fazer DEPLOY no heroku.
-
-Tenho conhecimentos dos princípios SOLID :)
+Trabalho sempre TENTANDO respeitar os princípios SOLID, pois sempre busco criar algo escalável
+no limite do meu conhecimento é claro. :)
 
 Pontos a melhorar:
   - Consigo realizar testes com O JEST, MOCHA, CHAI E SINON, mas ainda não é algo notável.
@@ -36,7 +35,7 @@ Pontos a melhorar:
 Ultima atualização: Maio, dia 24 de 2022.
 
 *   🌍  Brasil
-*   ✉️  Você pode me contactar via email: [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
+*   ✉️  Se quiser me conhecer melhor mande um EMAIL: [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
 *   🧠  Estou aprendendo typescript, e aprimorando os conhecimentos em todos os outros frameworks.
 *   Próximo conhecimento no radar: MongoDb
 
