@@ -37,7 +37,6 @@ no limite do meu conhecimento é claro. :)
 PS.: Estou aberto a feedbacks.
 
 **Pontos a melhorar:**
-  - Consigo realizar testes com O ***JEST, MOCHA, CHAI E SINON*** mas ainda não é algo notável.
   - Meu nível de ***Typescript*** ainda é novato.
   - Tenho um conhecimento muito pequeno ainda sobre ***CI/CD***.
   - Minha **organização pessoal** ainda não é satisfatória.
