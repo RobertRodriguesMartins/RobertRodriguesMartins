@@ -7,7 +7,7 @@ Olá, Meu nome é Robert Rodrigues Martins
 \- Meta: Desenvolvedor Backend :)
 --------------------------
 
---- **FRASE DE EFEITO**: Pessoas > Tecnologia
+--- **FRASE DE EFEITO**: Pessoas se desenvolvem com problemas - Robert
 
 Eu comecei minha jornada na área de tecnologia em julho de 2021
 
