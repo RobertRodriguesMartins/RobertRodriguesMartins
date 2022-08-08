@@ -13,7 +13,7 @@ Eu comecei minha jornada na área de tecnologia em julho de 2021
 
 Sou apaixonado e curioso a respeito de como tudo funciona.
 
-**Primeiros Passos:**  ***HTML básico, Git, Github e Javascript***. 
+**Primeiros Passos:**  ***HTML, Git, Github e Javascript***. 
 
 **Segundo Passo:** Comecei a aprender ***React***,
 
@@ -31,22 +31,19 @@ Ah, tenho conhecimento em ***ORM*** também, em meus projetos uso ***Sequelize**
 
 Tenho conhecimentos em ***Docker*** para subir a aplicação em qualquer ambiente. #loveDocker
 
-Trabalho sempre TENTANDO respeitar os princípios ***SOLID***, pois sempre busco criar algo escalável
-no limite do meu conhecimento é claro. :)
+Trabalho sempre TENTANDO respeitar os princípios ***SOLID***.
 
 PS.: Estou aberto a feedbacks.
 
 **Pontos a melhorar:**
-  - Meu nível de ***Typescript*** ainda é novato.
-  - Tenho um conhecimento muito pequeno ainda sobre ***CI/CD***.
   - Minha **organização pessoal** ainda não é satisfatória.
-  - Melhorar meu conhecimento a respeito da **acessibilidade** em um software
+  - Conhecimento de redes
 
 Ultima atualização: Maio, dia 24 de 2022.
 
 *   🌍  Brasil
 *   ✉️  Se quiser me conhecer melhor mande um ***EMAIL***: [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
-*   🧠  Estou aprendendo typescript, e aprimorando os conhecimentos em todos os outros frameworks.
+*   🧠  Aprimorando os conhecimentos tanto em desenvolvimento de aplicações como fundamentos da computação.
 *   Próximo conhecimento no radar: ***MongoDb***
 
 ### Habilidades
