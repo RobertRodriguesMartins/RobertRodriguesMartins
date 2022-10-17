@@ -35,8 +35,11 @@ Aprendi recentemente o funcionamento do ***MONGO DB*** utilizando para a criaç�
 de uma API o ***MONGOOSE*** seu ***ODM***.
 
 17/OUT/2022 - Estou aprendendo Python, para lidar com raspagem de dados, criação de bots "Crawler"
-e melhorando meus conhecimentos de Linux em geral, abordando mais a fundo conceitos técnicos de
-redes, meios de operação do linux para com TCP, gerênciamento de memória, deamons etc.
+e melhorando meus conhecimentos de operações de distros linux em geral, abordando mais a fundo conceitos técnicos de
+redes, gerenciamento de memória, deamons etc.
+
+O intuíto desses novo conhecimento é ter melhor noção do impacto em termos de peformance e memória ram
+consumidos por uma applicação, e melhor lidar com isso.
 
 Ultima atualização: Maio, dia 24 de 2022.
 
