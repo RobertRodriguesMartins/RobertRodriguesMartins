@@ -31,20 +31,19 @@ Ah, tenho conhecimento em ***ORM*** também, em meus projetos uso ***Sequelize**
 
 Tenho conhecimentos em ***Docker*** para subir a aplicação em qualquer ambiente. #loveDocker
 
-Trabalho sempre TENTANDO respeitar os princípios ***SOLID***.
+Aprendi recentemente o funcionamento do ***MONGO DB*** utilizando para a criação 
+de uma API o ***MONGOOSE*** seu ***ODM***.
 
-PS.: Estou aberto a feedbacks.
-
-**Pontos a melhorar:**
-  - Minha **organização pessoal** ainda não é satisfatória.
-  - Conhecimento de redes
+17/OUT/2022 - Estou aprendendo Python, para lidar com raspagem de dados, criação de bots "Crawler"
+e melhorando meus conhecimentos de Linux em geral, abordando mais a fundo conceitos técnicos de
+redes, meios de operação do linux para com TCP, gerênciamento de memória, deamons etc.
 
 Ultima atualização: Maio, dia 24 de 2022.
 
 *   🌍  Brasil
 *   ✉️  Se quiser me conhecer melhor mande um ***EMAIL***: [robert.rm131@gmail.com](mailto:robert.rm131@gmail.com)
 *   🧠  Aprimorando os conhecimentos tanto em desenvolvimento de aplicações como fundamentos da computação.
-*   Próximo conhecimento no radar: ***MongoDb***
+*   O que estou estudando no momento: ***Python***
 
 ### Habilidades
 
